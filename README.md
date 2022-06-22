@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinalkarmokar&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="mrinalkarmokar" /></p>
 
-<br>
+<p>&nbsp;</p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrinalkarmokar&show_icons=true&locale=en&text_color=daf7dc&bg_color=151515" alt="mrinalkarmokar" /></p>

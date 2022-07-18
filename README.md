@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Tortoise Bot (ROS)**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, Django, Robot Operating System(ROS)**
 
